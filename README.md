@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs on and off since 2013<br>📚 I'm currently learning JSt<br>🎯 Goals: Get to the game dev<br>🎲 Fun fact: I main Polish Girl in Tekken 7</p>
+<p align="left">✨ Creating bugs on and off since 2013<br>📚 I'm currently learning JS<br>🎯 Goals: Get to the game dev<br>🎲 Fun fact: I main Polish Girl in Tekken 7</p>
 
 ###
 
