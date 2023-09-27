@@ -1,17 +1,17 @@
-<h1 align="left">Hey 👋 What's up? You landed on my Github</h1>
-
-###
-<div>
-<div align="right"><p align="left">My name is Adam and I'm an aspiring programmer, from Poznań Poland</p></div>
-<div align="right">
+<h1 align="left">Hey 👋 What's up? You landed on my Github<div align="right">
   <a href="https://www.linkedin.com/in/aprzybyla/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="discordapp.com/users/digzpl" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
-</div>
-</div>
+</div></h1>
+
+###
+
+<p align="left">My name is Adam and I'm an aspiring programmer, from Poznań Poland</p>
+
+
 
 ###
 
