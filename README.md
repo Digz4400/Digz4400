@@ -8,11 +8,7 @@
 </div></h1>
 
 ###
-
-<p align="left">My name is Adam and I'm an aspiring programmer, from Poznań Poland</p>
-
-
-
+<p align="left">My name is Adam and I'm an aspiring programmer, from Poznań Poland. Motivated and detail-oriented most self-taught Developer with strong foundation in various programing languages and a knack for problem-solving. I am eager to gain hands-on experience in software development and engineering. </p>
 ###
 
 <h2 align="left">About me</h2>
