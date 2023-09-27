@@ -2,7 +2,17 @@
 
 ###
 
-<p align="left">My name is Adam and I'm an aspiring programmer, from Poznań Poland</p>
+<p align="left">My name is Adam and I'm an aspiring programmer, from Poznań Poland
+
+<div align="right">
+  <a href="https://www.linkedin.com/in/aprzybyla/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="discordapp.com/users/digzpl" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+</div>
+</p>
 
 ###
 
@@ -10,28 +20,30 @@
 
 ###
 
-<p align="left">✨ Creating bugs on and off since 2013<br>📚 I'm currently learning JS<br>🎯 Goals: Get to the game dev<br>🎲 Fun fact: I main Polish Girl in Tekken 7</p>
+<p align="left">✨ Creating bugs since 2013 - with few interruptions<br>📚 I'm currently learning Unreal Engine<br>🎯 Goals: Get into the GameDev<br>🎲 Fun fact: I main Polish Girl in Tekken 7</p>
 
 ###
 
-<h2 align="left">I know</h2>
+<h2 align="left">I know or learn</h2>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="40" alt="unrealengine logo"  />
 </div>
 
 ###
