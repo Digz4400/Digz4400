@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 What's up? You landed on my Github<div align="right">
+<h1 align="left">Hey 👋 What's up? You landed on Digz4400's Github<div align="right">
   <a href="https://www.linkedin.com/in/aprzybyla/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
@@ -9,6 +9,7 @@
 
 ###
 <p align="left">My name is Adam and I'm an aspiring programmer, from Poznań Poland. Motivated and detail-oriented most self-taught Developer with strong foundation in various programing languages and a knack for problem-solving. I am eager to gain hands-on experience in software development and engineering. </p>
+
 ###
 
 <h2 align="left">About me</h2>
@@ -19,7 +20,7 @@
 
 ###
 
-<h2 align="left">I know or learn</h2>
+<h2 align="left">I know or still learning (People learning everyday so........)</h2>
 
 ###
 
